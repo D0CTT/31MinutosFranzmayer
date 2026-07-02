@@ -1,0 +1,10 @@
+newmtl Meshy_AI__0511235823_texture:Material_012
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd auto_text.png
+Ni 1.50
+Ks 0.00 0.00 0.00
+map_Ks auto_spec.png
+Ns 250.00

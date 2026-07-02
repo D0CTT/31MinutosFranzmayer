@@ -1,0 +1,678 @@
+newmtl BodySG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd default.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 98.00
+newmtl Fachada1:lambert7SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd walltext.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks wallspec.png
+Ns 18.00
+newmtl Free_3D_Model_TV_Camera_for_obj1:Glass
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.40 0.40 0.40
+Tf 0.00 0.00 0.00
+Ni 1.80
+Ks 1.00 1.00 1.00
+Ns 75.00
+newmtl Free_3D_Model_TV_Camera_for_obj1:Mat
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.63 0.68 0.69
+Ns 58.00
+newmtl Free_3D_Model_TV_Camera_for_obj1:Mat_1
+illum 4
+Kd 0.19 0.19 0.19
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 9.00
+newmtl Free_3D_Model_TV_Camera_for_obj1:Mat_1_3
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 18.00
+newmtl Free_3D_Model_TV_Camera_for_obj1:Mat_2
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 50.00
+newmtl Free_3D_Model_TV_Camera_for_obj1:Mat_3
+illum 4
+Kd 0.85 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 0.26 0.26 0.26
+Ni 1.00
+Ks 0.50 0.00 0.00
+Ns 62.00
+newmtl Free_3D_Model_TV_Camera_for_obj1:Mat_6
+illum 4
+Kd 0.22 0.26 0.28
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 67.00
+newmtl Free_3D_Model_TV_Camera_for_obj1:Mat_8
+illum 4
+Kd 0.27 0.27 0.27
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.63 0.68 0.69
+Ns 5.00
+newmtl Free_3D_Model_TV_Camera_for_obj1:Mat_12
+illum 4
+Kd 0.23 0.23 0.23
+Ka 0.40 0.40 0.40
+Tf 0.33 0.33 0.33
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 49.00
+newmtl Free_3D_Model_TV_Camera_for_obj1:Mat_16
+illum 4
+Kd 0.83 0.83 0.83
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 50.00
+newmtl Free_3D_Model_TV_Camera_for_obj1:Mat_18
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 50.00
+newmtl Free_3D_Model_TV_Camera_for_obj1:Mat_21
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 13.00
+newmtl Free_3D_Model_TV_Camera_for_obj1:Mat_25
+illum 4
+Kd 0.17 0.17 0.17
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.63 0.68 0.69
+Ns 5.00
+newmtl Free_3D_Model_TV_Camera_for_obj1:Mat_27
+illum 4
+Kd 0.17 0.17 0.17
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.63 0.68 0.69
+Ns 5.00
+newmtl Free_3D_Model_TV_Camera_for_obj1:Mat_29
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 0.98 0.94
+Ns 50.00
+newmtl Free_3D_Model_TV_Camera_for_obj1:Metal
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl Free_3D_Model_TV_Camera_for_obj1:Synthetic
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl Free_3D_Model_TV_Camera_for_obj1:default1
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Meshy_AI_Blue_Suited_Gentleman_0504012632_texture2:Material_003
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Meshy_AI_Blue_Suited_Gentleman_0504012632_texture.png
+Ni 1.50
+Ks 0.50 0.50 0.50
+Ns 250.00
+newmtl Meshy_AI__0504023512_texture:Material_002
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Meshy_AI__0504023512_texture.png
+Ni 1.50
+Ks 0.50 0.50 0.50
+Ns 250.00
+newmtl _darboard_V4_L3:___Default
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd dartboard.jpg
+map_Ka dartboard.jpg
+Ni 1.50
+Ks 0.00 0.00 0.00
+map_Ks spec_dartboard.png
+Ns 10.00
+newmtl desk:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd desk.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks EscritoriosSpecularMap.png
+Ns 18.00
+newmtl desk4:desk:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd desk.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks EscritoriosSpecularMap.png
+Ns 18.00
+newmtl desk5:desk2:lambert7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd desk2.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl imacg3:Metallic_0_0_001
+illum 4
+Kd 0.85 0.85 0.85
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl imacg3:Monitor_process
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl imacg3:aluminium1_0_0_001
+illum 4
+Kd 0.78 0.78 0.78
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl imacg3:black1_0_0_001
+illum 4
+Kd 1.00 1.00 1.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl imacg3:color_base
+illum 4
+Kd 0.00 0.65 1.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl imacg3:monitor_glass
+illum 4
+Kd 0.80 0.80 0.80
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl imacg3:screen_image
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl imacg3:white1_0_0_001
+illum 4
+Kd 1.00 1.00 1.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl initialShadingGroup
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl lambert1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd piedra_text.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks piedra_spec.png
+Ns 18.00
+newmtl lambert1SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd piedra_text.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks piedra_spec.png
+Ns 18.00
+newmtl lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Tramoya1.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks tramoya1spec.png
+Ns 18.00
+newmtl lambert2SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wood2.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks wood2_spec.png
+Ns 18.00
+newmtl lambert2SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wood2.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks wood2_spec.png
+Ns 18.00
+newmtl lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd stonedown.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks blackstonespecularmap.png
+Ns 18.00
+newmtl lambert5SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana_text.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks ventana_spec.png
+Ns 18.00
+newmtl lambert8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd negrometal.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks metalspecular.png
+Ns 18.00
+newmtl lambert10SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd boton.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks spec_boton.png
+Ns 18.00
+newmtl pared1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd walltext.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks wallspec.png
+Ns 18.00
+newmtl paredazul:_darboard_V4_L3:___Default
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd dartboard.jpg
+map_Ka dartboard.jpg
+Ni 1.50
+Ks 0.00 0.00 0.00
+map_Ks spec_dartboard.png
+Ns 10.00
+newmtl paredazul:desk:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd desk.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks EscritoriosSpecularMap.png
+Ns 18.00
+newmtl paredazul:lambert10SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd boton.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks spec_boton.png
+Ns 18.00
+newmtl paredazul:phong14SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd negro.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks specular_mate_plastico.png
+Ns 18.00
+newmtl paredazul:phong15SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd telvisores.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks specularteles.png
+Ns 18.00
+newmtl paredazul:phong16SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd telvisores.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks specularteles.png
+Ns 18.00
+newmtl paredazul:phong17SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Paredinterior.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks spec_paredinterior.png
+Ns 18.00
+newmtl paredazul:phong18SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd panel.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks spec_panel.png
+Ns 18.00
+newmtl paredazul:phong19SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd alaire2.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks spec_alaire.png
+Ns 18.00
+newmtl paredazul:phong24SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd calendar.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks spec_calendar.png
+Ns 18.00
+newmtl phong4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd negrometal.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks metalspecular.png
+Ns 18.00
+newmtl phong14SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd negro.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks specular_mate_plastico.png
+Ns 18.00
+newmtl phong15SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd telvisores.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks specularteles.png
+Ns 18.00
+newmtl phong16SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd telvisores.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks specularteles.png
+Ns 18.00
+newmtl phong17SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Paredinterior.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks spec_paredinterior.png
+Ns 18.00
+newmtl phong18SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd panel.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks spec_panel.png
+Ns 18.00
+newmtl phong19SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd alaire2.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks spec_alaire.png
+Ns 18.00
+newmtl phong20SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd backdoor.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl phong21SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd rejillas.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl phong24SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd calendar.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks spec_calendar.png
+Ns 18.00
+newmtl phong25SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd text.png
+bump  -bm 1 normal.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks spec.png
+Ns 18.00
+newmtl phong26SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd piso_text.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks piso_spec.png
+Ns 18.00
+newmtl phong27SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd door_textu.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks woodbackd_spec.png
+Ns 18.00
+newmtl phong28SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd redwall_text.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks redwall_spec.png
+Ns 18.00
+newmtl phong29SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd bars.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl phong30SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd orangewall_text.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks -s_0.1_0.1_redwall_spec.png
+Ns 18.00
+newmtl phong31SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd clocks.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks clocks_spec.png
+Ns 18.00
+newmtl phong32SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 0.39 0.39 0.39
+map_Kd cristaldoortext.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks ventana_spec.png
+Ns 18.00
+newmtl phong33SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd pulltext.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks woodpull_spec.png
+Ns 18.00
